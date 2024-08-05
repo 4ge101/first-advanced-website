@@ -131,9 +131,11 @@ main {
 
 .bg-green {
     position: absolute;
-    top: 0;
+    top: -170px;
     z-index: -1;
-
+    width: 518px;
+    right: 0;
+    height: 1018px;  
 }
 
 .bg-blue {
